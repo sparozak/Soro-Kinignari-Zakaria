@@ -1,6 +1,51 @@
 title: "Soro Kinignari Zakaria"
-logo : img/soro1.jpg
-description : "Portfolio data analyst"
+logo: img/soro1.jpg
+description: "Portfolio de Data Analyst"
 show_downloads: True
+
+# Thème utilisé
 theme: jekyll-theme-minimal
+
+# Langue
 lang: fr
+
+# Informations d'auteur
+author:
+  name: "Soro Kinignari Zakaria"
+  email: "sorokinignari@gmail.com"
+  social_links:
+    - text: "LinkedIn"
+      url: "www.linkedin.com/in/kinignari-zakaria-soro-652789212"
+    - text: "GitHub"
+      url: "https://github.com/sparozak/Soro-Kinignari-Zakaria"
+
+# Paramètres de mise en page
+layout: 
+  default: 
+    sidebar: true  # Affiche une barre latérale
+    hero_section: true  # Affiche une section héros en haut de page
+
+# Paramètres de navigation
+navigation:
+  main:
+    - title: "Accueil"
+      url: /
+    - title: "Projets"
+      url: /projects
+    - title: "À propos"
+      url: /about
+    - title: "Contact"
+      url: /contact
+
+# Personnalisation des options de publication
+markdown: kramdown
+kramdown:
+  input: GFM  # Utiliser la syntaxe Markdown GitHub
+
+# Metadonnées pour SEO
+seo:
+  meta_description: "Portfolio professionnel de Soro Kinignari Zakaria, Data Analyst."
+  og_image: img/og-image.jpg  # Image pour les partages sur les réseaux sociaux
+
+# Personnalisation des fichiers
+assets_dir: "assets"
