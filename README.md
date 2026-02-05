@@ -1,10 +1,30 @@
-💼 Portfolio – Soro Kinignari Zakaria
-🚀 À propos de moi
+🌐 Portfolio – Soro Kinignari Zakaria
 
-Passionné par l’analyse de données, je suis un Data Analyst rigoureux et méthodique, capable de transformer des données complexes en insights exploitables pour guider la prise de décision stratégique.
-Maîtrisant Python, SQL, R, Excel et Power BI, j’aime relever les défis liés à l’analyse, la visualisation et la modélisation des données.
+Data Analyst | Power BI | Python | SQL | Machine Learning
 
-🎓 Formation
+Bienvenue sur mon portfolio !
+Ce site présente mes projets, mes compétences et mon parcours dans le domaine de la Data Analyse.
+Il a été construit avec GitHub Pages + Jekyll, en mettant l’accent sur la clarté, le design et l’impact professionnel.
+
+📌 À PROPOS DE MOI
+
+Je suis Soro Kinignari Zakaria, passionné par l’analyse de données et la création de solutions décisionnelles.
+J’aime transformer des données brutes en insights exploitables grâce à :
+
+📊 Power BI
+
+🐍 Python (Pandas, Numpy, Matplotlib, Scikit-learn)
+
+🗄️ SQL
+
+🧠 Machine Learning
+
+🧹 Data Cleaning, EDA
+
+📁 Gestion & visualisation des données
+
+
+🎓 FORMATION
 
 Certificat de Qualification Professionnelle – Data Analyst
 École de la Deuxième Chance, Abidjan (Déc. 2024 – Juil. 2025)
@@ -55,6 +75,7 @@ Tests d’hypothèses : t-test, ANOVA, Khi²
 Régressions linéaires & logistiques
 
 📊 Projets
+
 1. Analyse du Churn – Télécommunications
 
 Identification des profils à risque
@@ -85,29 +106,38 @@ Anglais : B2
 
 🎖️ Certifications
 
-Customer Clustering with KMeans — Aug 2025
-
-Python 101 for Data Science — Jun 2025
-
-Data Analysis with Python — Jun 2025
-
-Data Visualization with Python — Jun 2025
-
-SQL & Relational Databases 101 — Jul 2025
-
-Data Science Tools — Jul 2025
-
-Data Science Methodology — Jun 2025
-
-Data Science 101 — Jun 2025
-
-Create Tables & Load Data in PostgreSQL — Jul 2025
-
-A Quick Introduction to Machine Learning — Aug 2025
+Mastering Data Magic: Power BI + Tableau + SQL (Udemy) — Sep 2025
+<a href="img/udemy_certificat_data_magic.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
 
 The Complete SQL Course (Udemy) — Nov 2025
+<a href="img/udemy_certificat_sql_course.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
 
-Mastering Data Magic: Power BI + Tableau + SQL (Udemy) — Sep 2025
+Customer Clustering with KMeans — Aug 2025
+<a href="img/Customer_Clustering.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Python 101 for Data Science — Jun 2025
+<a href="img/Certificate _ cours_python.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Data Analysis with Python — Jun 2025
+<a href="img/Certificate _ python pour data science.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Data Visualization with Python — Jun 2025
+<a href="img/Certificate _ data visualisation with python.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+SQL & Relational Databases 101 — Jul 2025
+<a href="img/Certificate _ SQL.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Data Science Tools — Jul 2025
+<a href="img/Certificate _ data science tools.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Data Science Methodology — Jun 2025
+<a href="img/Certificate _ data science methodology.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+Data Science 101 — Jun 2025
+<a href="img/Certificate data science 101 Soro Kinignari Zakaria.pdf" target="_blank"> <img src="img/pdf-icon.png" width="80"> </a>
+
+
+
 
 📬 Contact
 
