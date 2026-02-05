@@ -1,51 +1,81 @@
-title: "Soro Kinignari Zakaria"
-logo: img/soro1.jpg
-description: "Portfolio de Data Analyst"
-show_downloads: True
+title: "Portfolio – Soro Kinignari Zakaria"
+description: "Data Analyst | Python • SQL • Power BI • Machine Learning"
+logo: "assets/img/soro1.jpg"
+favicon: "assets/img/favicon.ico"
 
-# Thème utilisé
+# Thème
 theme: jekyll-theme-minimal
 
-# Langue
+# Paramètres généraux
 lang: fr
+timezone: "Africa/Abidjan"
 
-# Informations d'auteur
+# Auteur
 author:
   name: "Soro Kinignari Zakaria"
   email: "sorokinignari@gmail.com"
-  social_links:
-    - text: "LinkedIn"
-      url: "www.linkedin.com/in/kinignari-zakaria-soro-652789212"
-    - text: "GitHub"
-      url: "https://github.com/sparozak/Soro-Kinignari-Zakaria"
+  role: "Data Analyst"
+  bio: "Transforming data into insights to drive strategic decisions."
+  social:
+    linkedin: "https://www.linkedin.com/in/kinignari-zakaria-soro-652789212"
+    github: "https://github.com/sparozak"
 
-# Paramètres de mise en page
-layout: 
-  default: 
-    sidebar: true  # Affiche une barre latérale
-    hero_section: true  # Affiche une section héros en haut de page
-
-# Paramètres de navigation
+# Navigation
 navigation:
-  main:
-    - title: "Accueil"
-      url: /
-    - title: "Projets"
-      url: /projects
-    - title: "À propos"
-      url: /about
-    - title: "Contact"
-      url: /contact
+  - title: "Accueil"
+    url: /
+  - title: "Projets"
+    url: /projects
+  - title: "Compétences"
+    url: /skills
+  - title: "Certifications"
+    url: /certifications
+  - title: "À propos"
+    url: /about
+  - title: "Contact"
+    url: /contact
 
-# Personnalisation des options de publication
+# Layout configuration (pour thèmes modernes)
+layout:
+  default:
+    sidebar: true
+    hero: true
+    dark_mode: true
+
+# Markdown
 markdown: kramdown
 kramdown:
-  input: GFM  # Utiliser la syntaxe Markdown GitHub
+  input: GFM
 
-# Metadonnées pour SEO
+# SEO
 seo:
-  meta_description: "Portfolio professionnel de Soro Kinignari Zakaria, Data Analyst."
-  og_image: img/og-image.jpg  # Image pour les partages sur les réseaux sociaux
+  meta_description: "Portfolio professionnel de Soro Kinignari Zakaria, Data Analyst spécialisé en Python, SQL, Machine Learning et Data Visualization."
+  og_image: "assets/img/og-image.jpg"
+  twitter_card: summary_large_image
 
-# Personnalisation des fichiers
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Style & Assets
+sass:
+  style: compressed
+
 assets_dir: "assets"
+include:
+  - "assets"
+
+# Liens sociaux affichés sur le site
+social_links:
+  - name: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/kinignari-zakaria-soro-652789212"
+  - name: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/sparozak"
+
+# Options diverses
+show_downloads: false
