@@ -1,7 +1,7 @@
 title: "Portfolio – Soro Kinignari Zakaria"
 description: "Data Analyst | Python • SQL • Power BI • Machine Learning"
-logo: "assets/img/soro1.jpg"
-favicon: "assets/img/favicon.ico"
+logo: img/soro1.jpg
+favicon: 
 
 # Thème
 theme: jekyll-theme-minimal
