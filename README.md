@@ -1,88 +1,118 @@
-Portfolio de Soro Kinignari Zakaria
+💼 Portfolio – Soro Kinignari Zakaria
 🚀 À propos de moi
-Passionné par l'analyse de données, je suis un Data Analyst rigoureux et méthodique, capable de transformer des chiffres complexes en insights exploitables pour soutenir la prise de décision stratégique. Avec une maîtrise des outils tels que Python, SQL, R, Excel et Power BI, je m'engage à apporter des solutions innovantes aux défis de l’analyse de données.
+
+Passionné par l’analyse de données, je suis un Data Analyst rigoureux et méthodique, capable de transformer des données complexes en insights exploitables pour guider la prise de décision stratégique.
+Maîtrisant Python, SQL, R, Excel et Power BI, j’aime relever les défis liés à l’analyse, la visualisation et la modélisation des données.
 
 🎓 Formation
-Certificat de Qualification Professionnelle en Data Analyst
-École de la deuxième chance, Abidjan, Côte d'Ivoire (Décembre 2024 - Juillet 2025)
+
+Certificat de Qualification Professionnelle – Data Analyst
+École de la Deuxième Chance, Abidjan (Déc. 2024 – Juil. 2025)
 
 Master en Économie du Développement
-Université Catholique d'Afrique de l'Ouest (UCAO), Abidjan, Côte d'Ivoire (2020-2024)
+Université Catholique d’Afrique de l’Ouest (UCAO), Abidjan (2020 – 2024)
 
-Licence en Économie et Gestion d'Entreprise
-Université Catholique d'Afrique de l'Ouest (UCAO), Abidjan, Côte d'Ivoire (2017-2020)
+Licence en Économie et Gestion d’Entreprise
+UCAO, Abidjan (2017 – 2020)
 
-Baccalauréat Série D Mention Bien
-Lycée Martin Luther King, Bouaké, Côte d'Ivoire (2016)
+Baccalauréat Série D – Mention Bien
+Lycée Martin Luther King, Bouaké (2016)
+
+🧑‍💼 Expérience Professionnelle
+Stage Professionnel – SaH Analytics International
+
+📅 Juillet 2025 – Aujourd’hui
+
+Réalisations :
+
+Conception et déploiement d’un dashboard 360° client sur Apache Superset, basé sur des données anonymisées.
+
+Développement d’un outil de cartographie des compétences via Excel pour optimiser la gestion des talents.
+
+Contribution à la mise en place d’une pipeline d’intégration de données (DBT, Dagster) au sein de l’équipe Data Engineering.
+
+Participation active aux réunions de cadrage pour la définition des besoins clients et orientations analytiques.
 
 🛠️ Compétences Techniques
-Langages de programmation :
+Langages :
 
 Python (Pandas, Scikit-learn, Matplotlib)
+
 SQL (jointures, filtres, agrégations)
-Outils de Visualisation :
+
+Outils de Data Visualization :
 
 Power BI
+
+Apache Superset
+
 Tableau
-Seaborn
+
 Analyses Statistiques :
 
-Tests d’hypothèses (t-test, ANOVA, Khi²)
-Régressions linéaires et logistiques
+Tests d’hypothèses : t-test, ANOVA, Khi²
+
+Régressions linéaires & logistiques
+
 📊 Projets
-1. Analyse du Churn dans une Entreprise de Télécommunications
-Identification des profils à risque et facteurs contribuant au churn.
-Évaluation de l'impact financier sur l'entreprise.
-Développement d’un modèle prédictif pour anticiper le churn.
-Technologies utilisées : Python, SQL, Streamlit, Power BI.
-2. Prédiction du Prix de Vente de Véhicules d'Occasion
-Mise en place d'un modèle de machine learning pour la prévision des prix futurs.
-Technologies utilisées : Python (Pandas, Numpy, Scikit-learn).
+1. Analyse du Churn – Télécommunications
+
+Identification des profils à risque
+
+Détection des facteurs influençant le churn
+
+Construction d’un modèle prédictif
+
+Techs : Python, SQL, Streamlit, Power BI
+
+2. Prédiction du Prix de Vente de Véhicules d’Occasion
+
+Modèle de machine learning pour anticiper les prix
+
+Techs : Python (Pandas, NumPy, Scikit-learn)
+
 3. Analyse Avancée des Données de Prêts Bancaires
-Création de tableaux de bord interactifs pour une compréhension dynamique des données de prêts.
-Technologies utilisées : Power BI (Power Query et DAX).
+
+Création de tableaux de bord interactifs pour l’analyse des risques
+
+Techs : Power BI (DAX, Power Query)
+
 🌍 Langues
+
 Français : Très bon niveau
-Anglais : Niveau B2
-🎖️ Certificats
-Customer Clustering with KMeans to Boost Business Strategy — August 12, 2025
-Voir le certificat
 
-Python 101 for Data Science — June 29, 2025
-Voir le certificat
+Anglais : B2
 
-Create Tables and Load Data in PostgreSQL using pgAdmin — July 10, 2025
-Voir le certificat
+🎖️ Certifications
 
-Data Visualization with Python — June 28, 2025
-Voir le certificat
+Customer Clustering with KMeans — Aug 2025
 
-Data Science Tools — July 1, 2025
-Voir le certificat
+Python 101 for Data Science — Jun 2025
 
-Data Science Methodology — June 29, 2025
-Voir le certificat
+Data Analysis with Python — Jun 2025
 
-Data Science 101 — June 26, 2025
-Voir le certificat
+Data Visualization with Python — Jun 2025
 
-SQL and Relational Databases 101 — July 3, 2025
-Voir le certificat
+SQL & Relational Databases 101 — Jul 2025
 
-Data Analysis with Python — June 27, 2025
-Voir le certificat
+Data Science Tools — Jul 2025
 
-A Quick Introduction to Machine Learning — August 12, 2025
-Voir le certificat
+Data Science Methodology — Jun 2025
 
-The Complete SQL Course: From Zero to Data Analyst (Udemy) — November 18, 2025
-Voir le certificat
+Data Science 101 — Jun 2025
 
-Mastering Data Magic: Power BI + Tableau + SQL, Analytics (Udemy) — September 23, 2025
-Voir le certificat
+Create Tables & Load Data in PostgreSQL — Jul 2025
 
----
+A Quick Introduction to Machine Learning — Aug 2025
 
-Pour voir mes projets, n'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration ou question !  
-**Email :** sorokinignari@gmail.com  
-**Téléphone :** 01 73 98 00 53
+The Complete SQL Course (Udemy) — Nov 2025
+
+Mastering Data Magic: Power BI + Tableau + SQL (Udemy) — Sep 2025
+
+📬 Contact
+
+💡 Pour voir mes projets ou collaborer, n’hésitez pas à me contacter !
+
+Email : sorokinignari@gmail.com
+
+Téléphone : 01 73 98 00 53
